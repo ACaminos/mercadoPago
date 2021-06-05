@@ -1,0 +1,12 @@
+{
+    "name": "acaminos/mercado-pago",
+    "authors": [
+        {
+            "name": "ACaminos",
+            "email": "caminosariel@gmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^2.3"
+    }
+}
