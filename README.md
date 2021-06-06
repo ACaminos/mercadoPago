@@ -1,5 +1,3 @@
-# mercadoPago
-
 ### Tener instalado Composer
 ### Tener instalado Apache2
 
@@ -96,36 +94,41 @@ Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la
 
 ### VISA
 
-Numero : 4509 9535 6623 3704
+- Numero : 4509 9535 6623 3704
 
-Vencimiento : 11/25
+- Vencimiento : 11/25
 
-CVV : 123
+- CVV : 123
 
-Nombre : cualquiera
+- Nombre : cualquiera
 
-DNI : Cualquiera
+- DNI : Cualquiera
 
 ### American Express
 
-Numero : 3711 803032 57522
+- Numero : 3711 803032 57522
 
-Vencimiento : 11/25
+- Vencimiento : 11/25
 
-CVV : 1234
+- CVV : 1234
 
-Nombre : cualquiera
+- Nombre : cualquiera
 
-DNI : Cualquiera
+- DNI : Cualquiera
 
 ### Mastercard
 
-Numero : 5031 7557 3453 0604
+- Numero : 5031 7557 3453 0604
 
-Vencimiento : 11/25
+- Vencimiento : 11/25
 
-CVV : 123
+- CVV : 123
 
-Nombre : cualquiera
+- Nombre : cualquiera
 
-DNI : Cualquiera
+- DNI : Cualquiera
+
+#### Teniendo mi primera implementacion con mercado pago, tuve mucha dificultad para poder lograr que funcione esto, debido a la poca claridad de la documentacion.
+#### Es por esto que dejo una guia para poder facilitar esto.
+
+### Espero y deseo que les haya sido util
