@@ -1,0 +1,14 @@
+.card{
+    margin: auto;
+    margin-top: 2%;
+    border-color: slateblue;
+}
+#title{
+    text-align: center;
+    font-size: 12pt;
+    color: red;
+    font-weight: 700;
+}
+.buttonMercadoPago{
+    text-align: center;
+}
