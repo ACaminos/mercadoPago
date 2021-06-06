@@ -92,7 +92,7 @@ Hacemos click en comprar y tenemos dos opciones :
 Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la cantidad de cuotas.
 
 
-#Tarjetas de prueba 
+## Tarjetas de prueba 
 
 ### VISA
 
