@@ -1,6 +1,6 @@
 #### Teniendo mi primera implementacion con mercado pago, tuve mucha dificultad para poder lograr que funcione esto, debido a la poca claridad de la documentacion.
 #### Es por esto que dejo una guia para poder facilitar esto.
-
+## 
 ### Tener instalado Composer
 ### Tener instalado Apache2
 
