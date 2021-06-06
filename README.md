@@ -11,16 +11,18 @@
 - Una vez clonado el repo, abrir la terminal / bash y escribir lo siguiente :
 
     1- composer init
-        - Aparecera lo siguiente:
-           - a) Package name -> Enter
-           - b) Descripcion -> Enter
-            c) Author -> Enter
-            d) Minimum Stability -> Enter
-            e) Package type -> Enter
-            f) License -> Enter
-            g) Would you like to define you dependencies (Require) interactively [yes]? --> Escribir NO y enter
-            h) Would you like to define your dev dependencies (require-dev) interactively [yes]? --> Escribir NO y enter
-            i) Do you confirm generation [yes]? --> Escribir YES y enter
+    <ul> Aparecera lo siguiente:
+    
+    <li>a) Package name -> Enter</li>
+    <li>b) Descripcion -> Enter</li>
+    <li>c) Author -> Enter</li>
+    <li>d) Minimum Stability -> Enter</li>
+    <li>e) Package type -> Enter</li>
+    <li>f) License -> Enter</li>
+    <li>g) Would you like to define you dependencies (Require) interactively [yes]? --> Escribir NO y enter</li>
+    <li>h) Would you like to define your dev dependencies (require-dev) interactively [yes]? --> Escribir NO y enter</li>
+    <li>i) Do you confirm generation [yes]? --> Escribir YES y enter</li>
+    </ul>
     
     2- composer install
     
@@ -44,11 +46,13 @@
 
 copiamos el siguiente CURL que encontraremos en la pagina de MP para generar los usuarios de testing (Vendedor y comprador) :
 
+<code>
 curl -X POST \
 -H "Content-Type: application/json" \
 -H 'Authorization: Bearer PROD_ACCESS_TOKEN' \
 "https://api.mercadopago.com/users/test_user?access_token= #ACCESS_TOKEN DEL USUARIO#" \
 -d '{"site_id":"MLA"}'
+</code>
 
 
 ## Atencion
@@ -82,13 +86,18 @@ Estamos en condiciones de levantar el proyecto en localhost.
 Hacemos click en comprar y tenemos dos opciones :
 
 1) Ingresar con mi cuenta de mercado pago ( Usuario comprador para testing que generamos)
-    a) Ingresamos email y password y, como usuario ya logueado, seguir la compra con:
-        I - Tarjeta debito - credito
-        II - Efectivo
+    <ul>a) Ingresamos email y password y, como usuario ya logueado, seguir la compra con:
+    <ul>
+        <li>I - Tarjeta debito - credito</li>
+        <li>II - Efectivo</li>
+    </ul>
+    </ul>
 
 2) Modo invitado
-    a) Nueva tarjeta y simular pago
-    b) Efectivo
+<ul>
+    <li>a) Nueva tarjeta y simular pago</li>
+    <li>b) Efectivo</li>
+    </ul>
 
 Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la cantidad de cuotas.
 
@@ -134,4 +143,4 @@ Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la
 
 ### Espero y deseo que les haya sido util
 
-##### @ACaminos
+- - - ##### <em> @ACaminos </em>
