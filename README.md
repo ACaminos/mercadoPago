@@ -11,9 +11,9 @@
 - Una vez clonado el repo, abrir la terminal / bash y escribir lo siguiente :
 
     1- composer init
-        Aparecera lo siguiente:
-            a) Package name -> Enter
-            b) Descripcion -> Enter
+        - Aparecera lo siguiente:
+           - a) Package name -> Enter
+           - b) Descripcion -> Enter
             c) Author -> Enter
             d) Minimum Stability -> Enter
             e) Package type -> Enter
