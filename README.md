@@ -1,7 +1,7 @@
 # mercadoPago
 
 # Tener instalado Composer
-# Tener instalado Apache2
+## Tener instalado Apache2
 
 # Pasos
 
