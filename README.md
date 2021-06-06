@@ -1,3 +1,6 @@
+#### Teniendo mi primera implementacion con mercado pago, tuve mucha dificultad para poder lograr que funcione esto, debido a la poca claridad de la documentacion.
+#### Es por esto que dejo una guia para poder facilitar esto.
+
 ### Tener instalado Composer
 ### Tener instalado Apache2
 
@@ -127,8 +130,8 @@ Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la
 - Nombre : cualquiera
 
 - DNI : Cualquiera
-
-#### Teniendo mi primera implementacion con mercado pago, tuve mucha dificultad para poder lograr que funcione esto, debido a la poca claridad de la documentacion.
-#### Es por esto que dejo una guia para poder facilitar esto.
+##
 
 ### Espero y deseo que les haya sido util
+
+##### @ACaminos
