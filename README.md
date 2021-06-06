@@ -1,9 +1,9 @@
 # mercadoPago
 
-# Tener instalado Composer
-## Tener instalado Apache2
+### Tener instalado Composer
+### Tener instalado Apache2
 
-# Pasos
+## Pasos
 
 - Clonar repo
 
@@ -25,9 +25,9 @@
     
     3- composer require "mercadopago/dx-php"
 
-# Una vez terminado de instalar todo esto, haremos lo siguiente
+## Una vez terminado de instalar todo esto, haremos lo siguiente
 
-# Mercado Pago
+### Mercado Pago
 
 - Iniciar sesion con nuestro usuario
 
@@ -35,11 +35,11 @@
 
 - copiar Access Token
 
-# Vs code
+### Vs code
 
 - En el archivo credenciales.php pegamos (de forma temporal) el token
 
-# Curl
+### Curl
 
 copiamos el siguiente CURL que encontraremos en la pagina de MP para generar los usuarios de testing (Vendedor y comprador) :
 
@@ -50,7 +50,7 @@ curl -X POST \
 -d '{"site_id":"MLA"}'
 
 
-# Atencion
+## Atencion
 
 - En el curl reemplazar #access_token del usuario# (incluyendo los hash tambien) por el token nuestro que pegamos en credenciales.php
 
@@ -94,7 +94,7 @@ Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la
 
 #Tarjetas de prueba 
 
-#VISA
+### VISA
 
 Numero : 4509 9535 6623 3704
 
@@ -106,7 +106,7 @@ Nombre : cualquiera
 
 DNI : Cualquiera
 
-# American Express
+### American Express
 
 Numero : 3711 803032 57522
 
@@ -118,7 +118,7 @@ Nombre : cualquiera
 
 DNI : Cualquiera
 
-# Mastercard
+### Mastercard
 
 Numero : 5031 7557 3453 0604
 
