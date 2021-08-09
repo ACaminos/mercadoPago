@@ -50,7 +50,7 @@ copiamos el siguiente CURL que encontraremos en la pagina de MP para generar los
 curl -X POST \
 -H "Content-Type: application/json" \
 -H 'Authorization: Bearer PROD_ACCESS_TOKEN' \
-"https://api.mercadopago.com/users/test_user?access_token= #ACCESS_TOKEN DEL USUARIO#" \
+"https://api.mercadopago.com/users/test_user?access_token=#ACCESS_TOKEN DEL USUARIO#" \
 -d '{"site_id":"MLA"}'
 </code>
 
