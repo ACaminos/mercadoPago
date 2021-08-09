@@ -141,6 +141,11 @@ Para cualquiera de los casos, podemos excluir algun medio de pago o modificar la
 - DNI : Cualquiera
 ##
 
+### Les dejo tambien un link de YouTube como base guia tambien
+https://www.youtube.com/watch?v=S35KFp23HH4&list=PLLdQjTnpjYBLHozKgp3KG5MSCcfxTgO9V
+
+
+
 ### Espero y deseo que les haya sido util
 
 - - - ##### <em> @ACaminos </em>
